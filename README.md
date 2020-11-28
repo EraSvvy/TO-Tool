@@ -7,4 +7,4 @@ Feel free to use it, break it, copy it, sauce it, toss it, whatever.
 
 Would love contributers <3
 
-Dev is very bored and busy
+Dev is very bored and busy with lots of shit-code to offer.
