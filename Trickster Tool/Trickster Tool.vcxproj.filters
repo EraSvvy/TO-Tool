@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="ScanValue.cpp">
+      <Filter>.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="AddyHandler.cpp">
+      <Filter>.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Tool.cpp">
+      <Filter>.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolSkills.cpp">
+      <Filter>.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolDev.cpp">
+      <Filter>.cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AddyHandler.h">
+      <Filter>.h</Filter>
+    </ClInclude>
+    <ClInclude Include="ScanValue.h">
+      <Filter>.h</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolSkills.h">
+      <Filter>.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Tool.h">
+      <Filter>.h</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolDev.h">
+      <Filter>.h</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Images\ToolBG.jpg">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="Images\SplashBGE.jpg">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="Images\ToolIm.jpg">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="Images\SkillBG.jpg">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="Images\icoboi.ico">
+      <Filter>Images</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include=".h">
+      <UniqueIdentifier>{f013004f-6c5e-4227-a0e8-cd70c4faa9cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include=".cpp">
+      <UniqueIdentifier>{38dbf6e5-80ad-4ee6-9078-d5bdbafe96ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Images">
+      <UniqueIdentifier>{6a7b9398-fa13-4597-8361-11219c2bc320}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc" />
+  </ItemGroup>
+</Project>
