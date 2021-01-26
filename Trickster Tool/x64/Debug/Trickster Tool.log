@@ -1,0 +1,61 @@
+﻿  Tool.cpp
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1237,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1239,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1241,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1243,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1245,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1247,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1320,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1321,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1322,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1323,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1476,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1478,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1479,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1480,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1481,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1482,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1483,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1484,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1485,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1486,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1487,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1488,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1491,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1492,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1518,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1521,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1656,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1660,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1664,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1665,1): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1727,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1734,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1744,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1757,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1767,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1774,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1792,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1799,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1809,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1822,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1833,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1841,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1883,50): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1894,50): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1905,47): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1906,47): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1909,48): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1910,48): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1911,47): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\Tool.h(1916,52): warning C4244: '=': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  ToolDev.cpp
+  ToolSkills.cpp
+  ScanValue.cpp
+  AddyHandler.cpp
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\AddyHandler.cpp(44,51): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\AddyHandler.cpp(50,54): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Trickster Tool.vcxproj -> C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\x64\Debug\TOTool.exe

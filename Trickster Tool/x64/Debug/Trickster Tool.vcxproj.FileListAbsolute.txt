@@ -1,0 +1,7 @@
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\x64\Debug\Trickster Tool.vcxprojAssemblyReference.cache
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\x64\Debug\TOTool.Tool.resources
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\x64\Debug\TOTool.ToolDev.resources
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\x64\Debug\TOTool.ToolSkills.resources
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\x64\Debug\Trickster Tool.vcxproj.GenerateResource.cache
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\x64\Debug\TOTool.exe
+C:\Dev\TO Tool\Trickster Tool\TO-Tool-Git\Trickster Tool\x64\Debug\TOTool.pdb

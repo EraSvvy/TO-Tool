@@ -16,7 +16,6 @@ namespace TOTool {
 	{
 
 	private: System::Windows::Forms::Form^ Tool;
-
 	public:
 		ToolSkills(System::Windows::Forms::Form^ o)
 		{

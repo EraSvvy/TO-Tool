@@ -1,0 +1,51 @@
+  TOTool.Tool.resources - Embedded, ContainedInManifestFile, 
+  TOTool.ToolDev.resources - Embedded, ContainedInManifestFile, 
+  TOTool.ToolSkills.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly TOTool, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class TOTool.ToolSkills: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 tab : Public
+    Int32* skillTimesPointer : Public
+Class TOTool.ToolDev: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Label labelScreenResX : Public
+    System.Windows.Forms.Label labelScreenResY : Public
+    System.Windows.Forms.Label labelPlayerXPos : Public
+    System.Windows.Forms.Label labelPlayerYPos : Public
+    System.Windows.Forms.Label labelMouseXPos : Public
+    System.Windows.Forms.Label labelMouseYPos : Public
+    System.Windows.Forms.Label labelTargetYPos : Public
+    System.Windows.Forms.Label labelTargetXPos : Public
+    System.Windows.Forms.Label labelMapScreenXPos : Public
+    System.Windows.Forms.Label labelMapScreenYPos : Public
+Class TOTool.Tool: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    TOTool.ToolSkills SkillGUI1 : Public
+    TOTool.ToolSkills SkillGUI2 : Public
+    TOTool.ToolSkills SkillGUI3 : Public
+    TOTool.ToolSkills SkillGUI4 : Public
+    TOTool.ToolSkills SkillGUI5 : Public
+    TOTool.ToolSkills SkillGUI6 : Public
+    TOTool.ToolDev DevGUI : Public
+  Methods:
+    toggleAutoCast(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
