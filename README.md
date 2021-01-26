@@ -15,11 +15,10 @@ Dev is very bored and busy with lots of shit-code to offer.
        
 VS Properties must be set with
 - Configureation Properties
--- General
+-- All Options
 --- Platform Toolset VS 2019 (v142)
 --- C++ Lang Standard (C++ 14 Standard)
 --- C Lang Standard (Legacy MSVC)
--- Advanced
 --- Use Debug Libs (No)
 --- Character Set (Unicode)
 --- Common Lang Runtime Support (/clr)
