@@ -30,11 +30,13 @@ VS Properties must be set with
 --- Enable Manged Inc Build (Yes)
 
 - C/C++
+
 -- All options
 --- Treate WChar_t As Built In Type (Yes/Zc:wchar_t)
 --- Surpress Startup Bnnaer (Yes)
 
 - Linker
+
 -- All Options
 --- No Entry Point (No)
 --- Subsystem Windows (/SUBSYSTEM:WINDOWS)
