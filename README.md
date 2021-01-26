@@ -14,20 +14,26 @@ Dev is very bored and busy with lots of shit-code to offer.
        To Compile
        
 VS Properties must be set with
+
 - Configureation Properties
--- All Options
+
+-- General
 --- Platform Toolset VS 2019 (v142)
 --- C++ Lang Standard (C++ 14 Standard)
 --- C Lang Standard (Legacy MSVC)
+
+-- Advanced
 --- Use Debug Libs (No)
 --- Character Set (Unicode)
 --- Common Lang Runtime Support (/clr)
 --- .Net Framework (v4.7.2)
 --- Enable Manged Inc Build (Yes)
+
 - C/C++
 -- All options
 --- Treate WChar_t As Built In Type (Yes/Zc:wchar_t)
 --- Surpress Startup Bnnaer (Yes)
+
 - Linker
 -- All Options
 --- No Entry Point (No)
